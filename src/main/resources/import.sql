@@ -1,0 +1,10 @@
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (1, 'BAPPY', 'TAWHID', 'bappy@gmail.com', 'KURATOLI', 'DHAKA', 'BANGLADESH', '+8801918638333');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (2, 'GM', 'SOHAG', 'sohag@gmail.com', 'banashree', 'DHAKA', 'BANGLADESH', '+8801345678963');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (3, 'TUSHER', 'SAHA', 'TUSHER@gmail.com', 'MIRPUR', 'DHAKA', 'BANGLADESH', '+88017957747374');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (4, 'HABIBUR', 'RAHMAN', 'habib@gmail.com', 'DEMRA', 'DHAKA', 'BANGLADESH', '+8801738482932');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (5, 'BIPOL', 'ISLAM', 'bipol@gmail.com', 'MOUCHHK', 'DHAKA', 'BANGLADESH', '+88017121335345');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (6, 'JOY', 'ROY', 'joy@gmail.com', 'TANGAIL', 'DHAKA', 'BANGLADESH', '+8801541208764');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (7, 'MAH', 'DIDAR', 'didar@gmail.com', 'NIKUJO', 'DHAKA', 'BANGLADESH', '+8801819655545');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (8, 'TUONU', 'SAHA', 'tonu@gmail.com', 'KAJIPARA', 'DHAKA', 'BANGLADESH', '+8801861407867');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (9, 'RINA', 'ROY', 'rina@gmail.com', 'BASHUNDHARA', 'DHAKA', 'BANGLADESH', '+8801567345632');
+insert into customer (id, first_name, last_name, email_address, address, city, country, phone_number) values (10,'MASUD', 'AHMED', 'masud@gmail.com', 'LALMATIA', 'DHAKA', 'BANGLADESH', '+8801918765432');
